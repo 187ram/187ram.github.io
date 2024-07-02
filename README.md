@@ -14,6 +14,6 @@ I'm **Ram Pervesh**, a passionate Software Development Engineer with over 5 year
 - **Email**: 187ram@gmail.com
 - **Location**: Noida, Uttar Pradesh, India
 - **Open to**: Remote opportunities
-- **LinkedIn**: [LinkedIn Profile](#) (replace with your actual LinkedIn URL)
+- **LinkedIn**: [@187ram](https://www.linkedin.com/in/187ram/)
 
 ###

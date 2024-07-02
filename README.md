@@ -1,7 +1,3 @@
-Sure, let's structure your "About Me" page on GitHub using the details from your resume. Here’s how it can look:
-
----
-
 ## About Me
 
 ### Hi there! 👋

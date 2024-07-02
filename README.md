@@ -46,7 +46,7 @@ I created Python scripts to extract and process data from Clover and Upserve POS
 **B.Tech in Computer Science & Engineering**  
 *JSS Academy of Technical Education, Noida*  
 *Aug '13 — Jun '17*  
-GPA: 6.5 | Active member of the Nibble Computer Society
+CGPA: 6.5 | Active member of the Nibble Computer Society
 
 ### ⚡ Fun Fact
 I have a passion for mathematics and enjoy diving into complex problems. In my free time, I love reading books, watching movies, and exploring new technologies. I thrive on learning and continuously seek out new challenges to grow both personally and professionally.
